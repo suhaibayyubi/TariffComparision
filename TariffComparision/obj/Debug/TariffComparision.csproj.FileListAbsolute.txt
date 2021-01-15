@@ -1,0 +1,6 @@
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\obj\Debug\TariffComparision.csprojAssemblyReference.cache
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\bin\Debug\TariffComparision.exe.config
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\bin\Debug\TariffComparision.exe
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\bin\Debug\TariffComparision.pdb
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\obj\Debug\TariffComparision.exe
+C:\Users\suhaib.ayyubi\source\repos\TariffComparision\TariffComparision\obj\Debug\TariffComparision.pdb
